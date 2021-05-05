@@ -1,3 +1,5 @@
+[back](./index.md)
+
 # Pack-Tool
 Es una multi herramienta para termux
 que te sirve de mucho
