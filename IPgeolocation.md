@@ -50,7 +50,7 @@ This script is an ip geolocation tool programmed in ruby ​​by [`BreakerBox`]
 > $ **ruby IPgeolocation.rb --help**
 
 # Usage
-![prueba](./images/foto.png)
+![prueba](./IPgeo.png)
 
 ---
 # Version
